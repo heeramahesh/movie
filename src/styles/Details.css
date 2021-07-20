@@ -1,0 +1,18 @@
+.detail-container{
+    margin-top:200px;
+    padding: 200px;
+    display:flex;
+    flex-direction: row;
+    color:cornsilk;
+    
+    border:20px;
+    
+}
+.movie-details{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.further-details{
+    text-align:left;
+    padding:10px;
+}

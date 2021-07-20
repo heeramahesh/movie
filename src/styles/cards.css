@@ -1,0 +1,12 @@
+.Cards{
+   display: flex;
+  flex-direction:column;
+  position: relative;
+  float:left;
+  width: 350px;
+  height: 630px;
+  margin: 10px;
+  border-radius: 10px;
+  
+
+}
