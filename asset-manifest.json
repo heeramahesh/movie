@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/heeramahesh/movie/static/css/main.c7231f45.chunk.css",
+    "main.js": "/heeramahesh/movie/static/js/main.37cd6580.chunk.js",
+    "main.js.map": "/heeramahesh/movie/static/js/main.37cd6580.chunk.js.map",
+    "runtime-main.js": "/heeramahesh/movie/static/js/runtime-main.d4f75d51.js",
+    "runtime-main.js.map": "/heeramahesh/movie/static/js/runtime-main.d4f75d51.js.map",
+    "static/css/2.b84ddc7f.chunk.css": "/heeramahesh/movie/static/css/2.b84ddc7f.chunk.css",
+    "static/js/2.f4f7a691.chunk.js": "/heeramahesh/movie/static/js/2.f4f7a691.chunk.js",
+    "static/js/2.f4f7a691.chunk.js.map": "/heeramahesh/movie/static/js/2.f4f7a691.chunk.js.map",
+    "static/js/3.396f24e5.chunk.js": "/heeramahesh/movie/static/js/3.396f24e5.chunk.js",
+    "static/js/3.396f24e5.chunk.js.map": "/heeramahesh/movie/static/js/3.396f24e5.chunk.js.map",
+    "index.html": "/heeramahesh/movie/index.html",
+    "static/css/2.b84ddc7f.chunk.css.map": "/heeramahesh/movie/static/css/2.b84ddc7f.chunk.css.map",
+    "static/css/main.c7231f45.chunk.css.map": "/heeramahesh/movie/static/css/main.c7231f45.chunk.css.map",
+    "static/js/2.f4f7a691.chunk.js.LICENSE.txt": "/heeramahesh/movie/static/js/2.f4f7a691.chunk.js.LICENSE.txt",
+    "static/media/mdb.css": "/heeramahesh/movie/static/media/arrow_right.0897f985.svg",
+    "static/media/all.min.css": "/heeramahesh/movie/static/media/fa-solid-900.efbd5d20.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4f75d51.js",
+    "static/css/2.b84ddc7f.chunk.css",
+    "static/js/2.f4f7a691.chunk.js",
+    "static/css/main.c7231f45.chunk.css",
+    "static/js/main.37cd6580.chunk.js"
+  ]
+}
